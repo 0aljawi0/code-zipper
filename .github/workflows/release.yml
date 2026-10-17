@@ -1,3 +1,4 @@
+#windows only
 name: "publish"
 
 on:
